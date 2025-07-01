@@ -192,4 +192,4 @@ To use these servers, you'll need to configure them in the `mcp-servers.json` fi
 
 ## License
 
-ISC
+MIT
