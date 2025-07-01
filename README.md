@@ -5,7 +5,7 @@ A TypeScript project that implements an A2A-compatible agent using LangGraph's R
 ## Project Structure
 
 ```
-a2a/
+a2a-langgraph-agent/
 ├── src/                      # TypeScript source files
 │   ├── index.ts              # Server entry point
 │   ├── cli.ts                # CLI client for interacting with the agent
@@ -33,7 +33,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone <repository-url>
-cd a2a
+cd a2a-langgraph-agent
 npm install
 ```
 
